@@ -1,4 +1,4 @@
 # seznamy
 # Autor: Bohuslav Čermák
 
-odkaz: 
+odkaz: https://bohuslavcermak.github.io/
